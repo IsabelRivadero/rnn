@@ -1,0 +1,2 @@
+# rnn
+redesneuronales-posgrado
